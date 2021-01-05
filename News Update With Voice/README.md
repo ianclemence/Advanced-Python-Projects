@@ -1,5 +1,5 @@
 # News Update With Voice
-News update with Voice using python 
+A program that provides news updates with voice using python 
 
 
 ## Get News API key From HERE:

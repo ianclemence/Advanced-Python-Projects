@@ -29,4 +29,5 @@ r = requests.get('https://coronavirus-19-api.herokuapp.com/countries/india')
 
 ## License & Copyright
 © Ian Clemence
+
 Licensed under the [MIT License](License)

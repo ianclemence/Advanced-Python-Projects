@@ -18,22 +18,12 @@ In this repo, I share some of the python projects that I have done over the coup
 
 
 
-1.Raspberry Pi Spy Bot
+1.Weather Forecaster
 
-2.To make color based detection and tracking the object using openCV 
+2.Stock-Predictor 
 
-3.Making an AI that can Play GTA San Andreas Using Python 
+3.Github Repo Automation 
 
-4.ToDo List App using Android & Java --- Work in Progress
+4.ToDo List App
 
-5.Typing Speed test using a GUI
-
-6.Internet Speed Meter GUI 
-
-7.Telegram bot that can show movie ratings using python
-
-8.Arduino + Raspberry pi based robot car
-
-9.Raspberry Pi based video door bell using python
-
-10.'Snake and Ladder' and 'Housii' game using python
+5.SpeedTest

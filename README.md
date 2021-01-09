@@ -13,12 +13,14 @@ In this repo, I share some of the python projects that I have done over the coup
 
 5.Voice Translator 
 
+6.Weather Forecast
+
 
 ## Project In Progress :
 
 
 
-1.Weather Forecaster
+1.Wallpaper Changer
 
 2.Stock-Predictor 
 
